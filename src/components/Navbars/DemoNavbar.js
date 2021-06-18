@@ -244,7 +244,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://github.com/creativetimofficial/argon-design-system-react"
+                      href="https://github.com/Leenhazaimeh"
                       id="tooltip112445449"
                       target="_blank"
                     >
